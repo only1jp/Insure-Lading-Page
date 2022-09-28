@@ -139,7 +139,7 @@ button {
   background-position: left top;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 660px) {
   .menu {
     display: block;
   }
@@ -162,7 +162,7 @@ button {
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 660px) {
   .footer {
     flex-direction: column;
     justify-content: center;
