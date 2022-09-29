@@ -187,7 +187,7 @@ button {
   }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 990px) {
   .top3 {
     flex-direction: column;
     align-items: center;
